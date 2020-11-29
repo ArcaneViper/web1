@@ -86,3 +86,10 @@ aside{
     display: inline-block;
     vertical-align: top;
 }
+
+.smallboy{
+    display: inline-block;
+    width: 33%;
+    background-color: white;
+    vertical-align: top;
+}
